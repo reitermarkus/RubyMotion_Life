@@ -22,10 +22,9 @@ Once you have set up the field as you wish, "Begin Evolution" will start the pro
 
 To do:
 ------
-*  A decent Splash Screen and Icon(s) would be nice.  But I am a developer and far, far, FAR from a graphic designer or an artist.
 *  The number of Evolution Cycles (iterations) is captured.  It should be displayed to the user.
 *  The time delay between evolution cycles is configurable.  I would like to give the user an easy option to change/test that value.
-*  Add an (i) information button that opens a panel listing the 'rules' (above).
+*  Add an (i) information button tha~t opens a panel listing the 'rules' (above).
 *  Allow preloading of setups to begin.  This alleviates the painstaking task of touches to toggle each cell into the initial state you wish.
 *  In the simulator, if you close the application then reopen it, it should reset.  I don't know how to do that with iOS or RubyMotion.
 *  The images that represent the Cells _really_ needs to replaced with something better.  I am a **terrible** artist.
